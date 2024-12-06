@@ -8,4 +8,7 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
 });
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5804884 (feat(header):Added Navbar)
