@@ -28,7 +28,7 @@ export function Footer() {
             <h3 className="text-white font-semibold mb-4">Contact</h3>
             <ul className="space-y-2">
               <li className="text-gray-400">support@pledgeit.com</li>
-              <li className="text-gray-400">1-800-PLEDGE-IT</li>
+              <li className="text-gray-400">071 2883321</li>
             </ul>
           </div>
         </div>
