@@ -4,6 +4,7 @@ import { Features } from './components/Features';
 import { Impact } from './components/Impact';
 import { Footer } from './components/Footer';
 
+
 function App() {
   return (
     <div className="min-h-screen bg-white">
